@@ -18,10 +18,10 @@
     <div class="container mt-3">
         <h2>esta es mi informacion</h2>
         <div class="card" style="width: 400px">
-            <img src="{{ asset('/images/bartsinson.jpg') }}" alt="Avatar" style="width:100%">
+            <img src="{{ asset('/images/omen.jpg') }}" alt="Avatar" style="width:100%">
             <div class="card-body">
-                <h4 class="card-title">Alexis Adrian Lopez Santiz</h4>
-                <p class="card-text">Nonchalant, 1.90m, me gusta la literatura feminista <br>
+                <h4 class="card-title">Luis Humberto Gomez Gomez</h4>
+                <p class="card-text">Hola soy temach y me gusta leer<br>
                     protejo a las mujeres y me gusta el matcha.</p>
                 <a href="#" class="btn btn-primary">See Profile</a>
             </div>
